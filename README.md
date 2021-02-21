@@ -1,6 +1,16 @@
-# What is Naum Service ?
+# Naum Project
 ![image](./naum_result.gif)
+
+### 구성원 및 역할 분담
+
+| 구성원 이름          | 역할                                                         |
+| ----------------------- | ------------------------------------------------------------ | 
+|       `김소현`        | `텍스트 데이터 전처리` & `DB생성 및 구축` & `워드클라우드 작업`              |
+|       `윤혜인`        | `네이버 검색어 및 트렌드 크롤링` & `데이터 EDA 및 모델링`&`최종 보고서 작성` | 
+|       `정아영`        | `Django 웹 서버 구축 및 디자인` & `시각화, 인스타그램 크롤링 작업` & `모델 선정 및 테스트`  |
 ---
+
+# What is Naum Service ?
 
 ![image](https://newsimg.hankookilbo.com/cms/articlerelease/2020/08/08/4c8c98e2-84b1-4426-bf07-4a534605bc4e.png)</br>
 [이미지 출처:https://www.hankookilbo.com/News/Read/A2020080801130005439?did=NA]
