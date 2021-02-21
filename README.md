@@ -1,4 +1,6 @@
 # What is Naum Service ?
+![image](./naum_result.gif)
+---
 
 ![image](https://newsimg.hankookilbo.com/cms/articlerelease/2020/08/08/4c8c98e2-84b1-4426-bf07-4a534605bc4e.png)</br>
 [이미지 출처:https://www.hankookilbo.com/News/Read/A2020080801130005439?did=NA]
